@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="HandPresence" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAQAAAACAAAAEAAAAAAAAAAAAAAABAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Oculus Hands Physics\Scripts\HandPresence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cell" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAEAAAAAAAAAAAAAIAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agent" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Contents\Agent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bed" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Contents\Bed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellContent" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAIAAAAEAAAAAEBBAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Contents\CellContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Floor" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Contents\Floor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fridge" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Contents\Fridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Contents\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAAAAAAAAAIgAIAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grid" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAACikAQAAAAAAAAACAAAgAAAAAACAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Grid.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BESgAEgAAGAEgAAAAABAAAEAAIYABAEIAAGQEOKBIiA=</HashCode>
+      <FileName>Assets\Scripts\Hand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HandAnimator" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAgAAAAAAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HandAnimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandsPresencePhysics" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BASAAAABAiAAAABkIAAAAAAgAAgAAAIAAAEAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\HandsPresencePhysics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Readme" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\TutorialInfo\Scripts\Readme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.AgentBehaviour" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQABCAAASIAACwAAEIAAAEAAAAQAAAEAEAAAEAAABI=</HashCode>
+      <FileName>Assets\Scripts\AgentBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Tablet" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAACAAAAAICA=</HashCode>
+      <FileName>Assets\Scripts\Tablet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="IGameListener" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IGameListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AgentState" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAACAAAAACAAAAAAAAAQAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\AgentState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EHand" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EHand.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1 @@
+public enum AgentState { SLEEPING, MOVING, IDLE, STUCK, INTERACTING };
